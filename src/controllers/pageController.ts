@@ -9,7 +9,7 @@ export const home = (req: Request,res: Response)=> {
         menu: createMenuObject("all"),
         banner: {
             title:"All Waifus",
-            background: "allanimals.jpg"
+            background: "banner_all.jpg"
         },
         list
     })
@@ -22,7 +22,7 @@ export const dragons = (req: Request,res: Response)=> {
         menu: createMenuObject("dragon"),
         banner: {
             title:"Dragons",
-            background: "banner_dog.jpg"
+            background: "banner_dragon.png"
         },
         list
     })
@@ -35,7 +35,7 @@ export const nekos = (req: Request,res: Response)=> {
         menu: createMenuObject("neko"),
         banner: {
             title:"Nekos",
-            background: "banner_cat.jpg"
+            background: "banner_neko.jpg"
         },
         list
     })
@@ -48,7 +48,7 @@ export const vampires = (req: Request,res: Response)=> {
         menu: createMenuObject("vampire"),
         banner: {
             title:"Vampires",
-            background: "banner_fish.jpg"
+            background: "banner_vampire.png"
         },
         list
     })
