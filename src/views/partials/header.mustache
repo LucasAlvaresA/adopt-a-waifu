@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adopt a Waifu - Welcome!</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="icon" type="image/png" href="/images/favicon.png" />
+</head>
+<body>
+<header>
+    <div class="container">
+        <a href="/">Adopt-A-Waifu!</a>
+        <form method="GET" action="/search">
+            <input type="search" name="q" placeholder="Search a waifu..." />
+        </form>
+    </div>
+</header>
+<nav>
+    <ul>
+        <li class="{{#menu.all}}active{{/menu.all}}"><a href="/">All</a></li>
+        <li class="{{#menu.dragon}}active{{/menu.dragon}}"><a href="/dragons">Dragons</a></li>
+        <li class="{{#menu.neko}}active{{/menu.neko}}"><a href="/nekos">Nekos</a></li>
+        <li class="{{#menu.vampire}}active{{/menu.vampire}}"><a href="/vampires">Vampires</a></li>
+    </ul>
+</nav>
