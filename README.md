@@ -1,20 +1,35 @@
-# adopt-a-waifu
-Adopt a Waifu is a study project - Made with Node.js and TypeScript
+# <div align="center"> Adopt a Waifu </div>
 
-Ainda to fazendo esse projeto,quando acabar eu atualizo com o readme bonitinho,até la,fé
+<div align="center">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</div>
 
-### Pré-requisitos globais
+> Adopts a Waifu is is a small study project,made with Node.js and TypeScript
 
-É preciso ter o nodemon,typescript e ts-node instalados globalmente no seu pc ai meu chapinha
+## Getting Started
 
-pra instalar facinho:
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-`npm install -g nodemon typescript ts-node`
+### Prerequisites
 
-### Instalação
+- npm 
+- typescript (Global)
+- nodemon (Global)
+- ts-node (Global)
 
-`npm install`
+      npm install -g nodemon typescript ts-node
 
-### Para rodar o projeto:
+### Installation
 
-`npm run start-dev`
+- Clone the repo
+
+       git clone https://github.com/your_username_/Project-Name.git
+       
+- Install NPM packages
+
+      npm install
+
+- Run the project
+
+      npm run start-dev
