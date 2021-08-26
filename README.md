@@ -9,7 +9,7 @@
     <img src="adoptawaifu.png" alt="readme-banner" width="500" height="500">
 </div>
 
-> Adopts a Waifu is is a small study project,made with Node.js and TypeScript
+> Adopt a Waifu is is a small study project,made with Node.js and TypeScript
 
 ## Getting Started
 
