@@ -24,7 +24,7 @@
 
 - Clone the repo
 
-       git clone https://github.com/your_username_/Project-Name.git
+       git clone https://github.com/LucasAlvaresA/adopt-a-waifu.git
        
 - Install NPM packages
 
@@ -32,4 +32,4 @@
 
 - Run the project
 
-      npm run start-dev
+      npm start
